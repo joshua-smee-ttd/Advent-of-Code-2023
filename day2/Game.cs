@@ -27,12 +27,7 @@ public class Game
 
     private int HighestOfColour(string colour)
     {
-        int val = reveals.Aggregate(0, (i1, reveal) => reveal.checkColour(colour) > i1 ?  reveal.checkColour(colour) : i1);
-
-        Console.WriteLine(val);
-        Console.WriteLine(colour);
-        
-        return val;
+        return val = reveals.Aggregate(0, (i1, reveal) => reveal.checkColour(colour) > i1 ?  reveal.checkColour(colour) : i1);
     }
 }
 
