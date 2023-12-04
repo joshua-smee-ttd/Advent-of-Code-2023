@@ -1,0 +1,16 @@
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\bin\Debug\net7.0\day4.exe
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\bin\Debug\net7.0\day4.deps.json
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\bin\Debug\net7.0\day4.runtimeconfig.json
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\bin\Debug\net7.0\day4.dll
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\bin\Debug\net7.0\day4.pdb
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\obj\Debug\net7.0\day4.csproj.AssemblyReference.cache
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\obj\Debug\net7.0\day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\obj\Debug\net7.0\day4.AssemblyInfoInputs.cache
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\obj\Debug\net7.0\day4.AssemblyInfo.cs
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\obj\Debug\net7.0\day4.csproj.CoreCompileInputs.cache
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\obj\Debug\net7.0\day4.dll
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\obj\Debug\net7.0\refint\day4.dll
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\obj\Debug\net7.0\day4.pdb
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\obj\Debug\net7.0\day4.genruntimeconfig.cache
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\obj\Debug\net7.0\ref\day4.dll
+C:\Users\joshua.smee\Code\Advent-of-Code-2023\day4\bin\Debug\net7.0\input.txt
