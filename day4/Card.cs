@@ -28,7 +28,7 @@ public class Card
 
     public int GetPoints()
     {
-        int numWinning = numbers.Count(i => winning.Contains(i));
+        var numWinning = NumWinning();
                 
         if (numWinning == 0)
         {
@@ -36,5 +36,10 @@ public class Card
         }
 
         return (int)Math.Pow(2, numWinning - 1);
+    }
+
+    public int NumWinning()
+    {
+        return numbers.Count(i => winning.Contains(i));
     }
 }
