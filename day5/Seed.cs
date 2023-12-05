@@ -18,11 +18,9 @@ public class Seed
     {
         if (map.source > start + range - 1 || map.source + map.range - 1 < start)
         {
-            Console.WriteLine("TESTING");
             return new List<Seed>() { this };
         }
 
-        Console.WriteLine("HERE");
         
         changed = true;
 
